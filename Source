@@ -303,7 +303,7 @@ class MainWindow(QWidget):
         except ValueError:
             pass
 
-# Функция для поиска шаблонов в отдельном потоке
+
     exit_flag = False
 def search_templates():
     with mss.mss() as sct:
@@ -311,10 +311,10 @@ def search_templates():
             found_template = False
             monitor = {"top": y, "left": x, "width": w, "height": h}
             screen = np.array(sct.grab(monitor))
-            # Преобразование изображения в оттенки серого
+            
             gray_screen = cv2.cvtColor(screen, cv2.COLOR_BGR2GRAY)
 
-            threads = []  # Список потоков
+            threads = [] 
 
             for i, (template, w_template, h_template) in enumerate(zip(templates, w_templates, h_templates)):
                 if not main_window.template_checkboxes[i].isChecked():
@@ -329,7 +329,7 @@ def search_templates():
 
                         thread = threading.Thread(target=process_template_matches,
                                                   args=(pt, w_template, h_template, x, y))
-                        threads.append(thread)  # Добавление потока в список
+                        threads.append(thread)  
 
                         thread.start()
 
@@ -337,7 +337,7 @@ def search_templates():
                 thread.join()
 
             cv2.imshow('Screen', screen)
-            cv2.waitKey(1)  # Добавлено для обновления окна
+            cv2.waitKey(1) 
             if keyboard.is_pressed('caps lock'):
 
                 if not found_template:
