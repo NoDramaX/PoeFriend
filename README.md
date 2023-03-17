@@ -15,3 +15,4 @@ I do not have enough data on how well the program will work on DirectX 12 and Vu
 Windows antivirus may not approve of unpacking and opening this program because it sees certain signatures from the Pyautogui library and assumes they belong to the Trojan family.
 
 You can watch the full video demonstration of the program's functions here: https://www.youtube.com/watch?v=UaVES5p5AM4&ab_channel=AntonKarp
+Link to download https://disk.yandex.ru/d/R1R3g-pM2-HjpA
