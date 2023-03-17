@@ -2,6 +2,8 @@
 
 This software is designed to optimize the gaming process in Path of Exile, specifically to create a more comfortable process for buying currency from Tujen. The program is currently in beta stage, and I will try to update its functionality and fix any errors as much as possible. If you notice any issues, please report them to me. You can reach me on Discord at No_drama#3708, or visit my Discord server at https://discord.gg/JP8JDkuUbp.
 
+To activate the bot you need to hold caps lock
+
 The program uses OpenCV technology and does not interfere with the game's memory, substitute packets, or manipulate any data within the game. Based on my knowledge, it is impossible to receive a ban for using this program because it cannot be detected by Path of Exile's means. At the time of publishing this program, I tested it for approximately two months, and none of my accounts were banned.
 
 Possible problems when using the program:
