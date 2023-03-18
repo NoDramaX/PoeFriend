@@ -24,6 +24,8 @@ Download Release 1.1 Beta Release . NoDramaX/PoeFriend . GitHub (LATEST VERSION)
 
 https://github.com/NoDramaX/PoeFriend/releases/tag/opencv
 
+https://discord.gg/jaCmb3FM
+
 
 Latest update changelog:
 
