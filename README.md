@@ -20,5 +20,15 @@ You can watch the full video demonstration of the program's functions here: http
 
 Virustotal https://www.virustotal.com/gui/file/b58c48747d7dfdd76f6caac3ad9cafd0b96f54c2044961e5e8a51f3d2926ca73?nocache=1
 
-There are reports from some users about the incorrect search for the Divine orb. I am aware of this issue and will try to fix it as soon as possible.
-If you encounter this error, try lowering the top slider between 70 and 75~. And check on the additional image output screen if the program sees the divine orb before you start trading.
+Download Release 1.1 Beta Release . NoDramaX/PoeFriend . GitHub (LATEST VERSION) 
+
+https://github.com/NoDramaX/PoeFriend/releases/tag/opencv
+
+
+Latest update changelog:
+
+1. In this version, the incorrect display of the divine orb has been fixed.
+
+2. Added new currency in UI.
+
+3. And also added the ability to save and load configurations
