@@ -26,6 +26,7 @@ https://github.com/NoDramaX/PoeFriend/releases/tag/opencv
 
 https://discord.gg/jaCmb3FM
 
+No_drama#3708
 
 Latest update changelog:
 
