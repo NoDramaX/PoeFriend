@@ -20,9 +20,9 @@ You can watch the full video demonstration of the program's functions here: http
 
 Virustotal https://www.virustotal.com/gui/file/b58c48747d7dfdd76f6caac3ad9cafd0b96f54c2044961e5e8a51f3d2926ca73?nocache=1
 
-Download Release 1.19 Beta. NoDramaX/PoeFriend . GitHub (LATEST VERSION) 
+Download Release 1.3 Beta. NoDramaX/PoeFriend . GitHub (LATEST VERSION) 
 
-https://github.com/NoDramaX/PoeFriend/releases/tag/opencvv
+https://github.com/NoDramaX/PoeFriend/releases/tag/Opencvvv
 
 https://discord.gg/jaCmb3FM
 
@@ -30,8 +30,7 @@ No_drama#3708
 
 Latest update changelog:
 
-1. In this version, the incorrect display of the divine orb has been fixed.
-
-2. Added new currency in UI.
-
-3. And also added the ability to save and load configurations
+- Updated user interface.
+- The entire program has been translated into English.
+- Fixed minor bugs.
+- Removed Exalted Shard search pattern.
