@@ -26,6 +26,8 @@ https://github.com/NoDramaX/PoeFriend/releases/tag/Opencvvv
 
 https://discord.gg/jaCmb3FM
 
+My boosty - https://boosty.to/no_drama thanks for support me
+
 No_drama#3708
 
 Latest update changelog:
