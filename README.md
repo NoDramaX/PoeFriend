@@ -16,7 +16,7 @@ https://mega.nz/file/gGll1ZxT#34gQxmhr2pdGK-WHaRxvPSP99DBVf7tBusfe7vH0K4U Downlo
 https://www.virustotal.com/gui/file/38f9e25dd69d68e05311fc4b10851605cf7343765d9491068663dacf7a8534ac/detection
 
 Poe Friend 2.0 Release
-youtube_share;4BEeTumWMkQ]https://youtu.be/4BEeTumWMkQ
+youtube video https://youtu.be/4BEeTumWMkQ
 
 
 
