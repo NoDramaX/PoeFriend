@@ -1,4 +1,4 @@
-[B]PoeFriend 2.0 Realise[/B]
+PoeFriend 2.0 Realise
 
 This software is designed to optimize the gaming process in Path of Exile, specifically to create a more comfortable process for buying currency from Tujen. If you notice any issues, please report them to me. [B]You can reach me on Discord at https://discord.gg/kjSPPB7NFw No_drama#3708
 
